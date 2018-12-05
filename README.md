@@ -1,2 +1,2 @@
 # trello-slide-list-card
-Slide cards in list
+Trello内の複数のリスト内のカードを一斉にスライドさせます。
